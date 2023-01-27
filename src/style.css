@@ -1,0 +1,28 @@
+/*
+colors
+dark grey #1f1f1f
+ivory #F5EBEB
+red #FF4655
+*/
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  cursor: crosshair;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 150%;
+  letter-spacing: 1px;
+  width: 100%;
+  background-color: #1f1f1f;
+  color: #f5ebeb;
+}
