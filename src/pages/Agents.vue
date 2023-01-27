@@ -127,7 +127,7 @@ function selectActiveTab(agent, tabIndex) {
               />
               <img
                 class="agent-img-bg"
-                src="pngkit_black-splatter-png_725852.png"
+                src="/black.png"
                 alt="Black paint splash background image"
               />
             </div>
